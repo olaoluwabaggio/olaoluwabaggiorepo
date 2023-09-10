@@ -8,7 +8,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Olaoluwa%20Ogunsola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-ogunsola//)]https://www.linkedin.com/in/olaoluwa-ogunsola/)
 [![Medium Badge](https://img.shields.io/badge/Olaoluwa%20Ogunsola-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Gmail Badge](https://img.shields.io/badge/-olaoluwa.ogunsola@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:olaoluwa.ogunsola@gmail.com)
 
 ## ⚡ Technologies
 
