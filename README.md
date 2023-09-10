@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning --
+!-- I'm Olaoluwa Ogunsola, a Scrum Master transitioning into cloud and DevOps. I'm passionate about technology and excited to explore cloud computing and DevOps for process optimization and innovation --
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
+[![Linkedin Badge](https://img.shields.io/badge/-Olaoluwa%20Ogunsola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-ogunsola//)]https://www.linkedin.com/in/olaoluwa-ogunsola/)
+[![Medium Badge](https://img.shields.io/badge/Olaoluwa%20Ogunsola-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
 [![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
 
 ## ⚡ Technologies
