@@ -6,7 +6,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Olaoluwa%20Ogunsola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-ogunsola//)]https://www.linkedin.com/in/olaoluwa-ogunsola/)
+[![Linkedin Badge](https://img.shields.io/badge/-Olaoluwa%20Ogunsola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-ogunsola/)]
 [![Medium Badge](https://img.shields.io/badge/Olaoluwa%20Ogunsola-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://medium.com/@olaoluwa.ogunsola)
 [![Gmail Badge](https://img.shields.io/badge/-olaoluwa.ogunsola@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:olaoluwa.ogunsola@gmail.com)
 
